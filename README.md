@@ -156,5 +156,5 @@ These interface features are inspired by the open-source template
 ## Technologies
 
 React 19, Vite, Material UI, ApexCharts, React Router.
-=======
+
 
