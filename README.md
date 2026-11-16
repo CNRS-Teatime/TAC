@@ -5,7 +5,6 @@ Demo of the **TAC** (*Thesaurus Automation & Curation*) interface: an applicatio
 thesauri for cultural heritage, where a curator stays in control of every proposal made by a language model
 (concept generation, thesaurus assignment, alignments, export).
 
-**Repository:** [github.com/CNRS-Teatime/TAC](https://github.com/CNRS-Teatime/TAC)
 
 ## Team
 
