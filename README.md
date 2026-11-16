@@ -6,18 +6,6 @@ thesauri for cultural heritage, where a curator stays in control of every propos
 (concept generation, thesaurus assignment, alignments, export).
 
 
-## Team
-
-- Rida Asri
-- John Samuel
-- Violette Abergel
-- Anaïs Guillem
-- Kévin Réby
-- Gilles Gesquière
-- Miled Rousset
-- Olivier Malavergne
-
-
 > **⚠️ This repository is a demo only.**
 >
 > - **The core code is not published.** The Hybrid RAG engine (vector databases, knowledge graph, reranker),
@@ -158,4 +146,16 @@ These interface features are inspired by the open-source template
 
 React 19, Vite, Material UI, ApexCharts, React Router.
 
+## Team
 
+- Rida Asri
+- John Samuel
+- Violette Abergel
+- Anaïs Guillem
+- Kévin Réby
+- Gilles Gesquière
+- Miled Rousset
+- Olivier Malavergne
+
+# Acknowledgements
+This work was conducted within the TAC project, funded by the Fondation des Sciences du Patrimoine (FSP) in the framework of the EquipEx+ ESPADON project, which received French State funding managed by the French National Research Agency (ANR) under the France 2030 programme (ANR-21-ESRE-0050). Additional financial support was provided by the CNRS through its Mission pour les Initiatives Transverses et Interdisciplinaires (MITI), within the TEATIME project. The work also benefited from DIGILAB services provided by the European Research Infrastructure for Heritage Science (E-RIHS).
