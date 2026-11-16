@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TAC — interface demo
 
 Demo of the **TAC** (*Thesaurus Automation & Curation*) interface: an application that helps build SKOS
@@ -6,6 +7,12 @@ thesauri for cultural heritage, where a curator stays in control of every propos
 
 ## Team
 
+=======
+# TAC
+Automated Thesaurus Construction
+
+## Team
+>>>>>>> ca96e1e233c9ca1b8dec96ccd3326f8e19f4dfd7
 - Rida Asri
 - John Samuel
 - Violette Abergel
@@ -14,6 +21,7 @@ thesauri for cultural heritage, where a curator stays in control of every propos
 - Gilles Gesquière
 - Miled Rousset
 - Olivier Malavergne
+<<<<<<< HEAD
 
 > **⚠️ This repository is a demo only.**
 >
@@ -154,3 +162,5 @@ These interface features are inspired by the open-source template
 ## Technologies
 
 React 19, Vite, Material UI, ApexCharts, React Router.
+=======
+>>>>>>> ca96e1e233c9ca1b8dec96ccd3326f8e19f4dfd7
