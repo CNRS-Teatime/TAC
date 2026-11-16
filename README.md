@@ -1,14 +1,9 @@
-# TAC — interface demo
+# TAC
+Automated Thesaurus Construction
 
 Demo of the **TAC** (*Thesaurus Automation & Curation*) interface: an application that helps build SKOS
 thesauri for cultural heritage, where a curator stays in control of every proposal made by a language model
 (concept generation, thesaurus assignment, alignments, export).
-
-## Team
-
-=======
-# TAC
-Automated Thesaurus Construction
 
 ## Team
 
@@ -20,7 +15,7 @@ Automated Thesaurus Construction
 - Gilles Gesquière
 - Miled Rousset
 - Olivier Malavergne
-<<<<<<< HEAD
+
 
 > **⚠️ This repository is a demo only.**
 >
